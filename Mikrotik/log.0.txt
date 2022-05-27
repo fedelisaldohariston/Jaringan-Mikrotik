@@ -1,0 +1,636 @@
+May/20/2022 13:47:34 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 13:47:34 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 13:47:34 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 13:47:34 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 13:47:34 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 13:47:34 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 13:47:36 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 13:47:36 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 13:47:36 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 13:47:36 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 13:47:36 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 13:47:36 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 13:47:43 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 13:47:43 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 13:47:43 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 13:47:51 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 13:47:51 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 13:47:51 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 13:58:39 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 13:58:39 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 13:58:39 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 13:58:39 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 13:58:39 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 13:58:39 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:03:57 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:03:57 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:03:57 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:03:57 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:03:57 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:03:57 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:05:04 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:05:04 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:05:04 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:05:04 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:05:04 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:05:04 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:05:12 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:05:12 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:05:12 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:05:12 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:05:12 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:05:12 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:05:15 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:05:15 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:05:15 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:05:16 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:05:16 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:05:16 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:07:57 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:07:57 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:07:57 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:07:57 hotspot,info,debug ->: user (10.20.30.253): login failed: host is removed
+May/20/2022 14:07:57 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:09:16 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:09:16 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:09:16 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:09:16 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:09:16 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:09:16 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:09:18 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:09:18 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:09:18 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:09:18 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:09:18 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:09:18 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:10:00 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:10:00 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:10:00 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:10:00 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:10:00 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:10:00 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:10:52 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:10:52 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:10:52 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:10:52 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:10:52 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:10:52 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:13:41 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:13:41 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:13:41 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:13:41 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:13:41 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:13:41 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:13:43 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:13:43 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:13:43 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:13:43 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:13:43 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:13:43 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:15:52 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:15:52 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:15:53 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:15:53 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:15:53 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:15:53 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:18:20 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:18:20 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:18:20 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:18:20 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:18:20 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:18:20 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:18:53 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:18:53 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:18:53 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:18:53 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:18:53 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:18:53 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:19:12 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:19:12 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:19:12 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:19:12 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:19:12 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:19:12 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:19:12 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:19:13 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:19:13 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:19:13 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:19:13 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:19:13 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:19:13 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:21:33 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:21:33 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:21:33 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:21:33 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:21:33 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:21:33 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:39:04 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:39:04 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:39:04 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:39:04 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:39:04 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:39:04 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:39:16 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:39:16 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:39:16 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:39:16 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:39:16 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:39:16 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 12:28:42 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 12:28:42 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 12:29:27 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 12:29:27 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 12:29:27 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 12:29:29 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 12:29:29 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 12:29:29 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:43:09 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:43:09 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:43:09 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:43:09 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:43:09 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:43:09 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:43:48 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:43:48 hotspot,info,debug ->: user (10.20.30.253): trying to log in by mac-cookie
+May/20/2022 14:43:48 hotspot,account,info,debug ->: user (10.20.30.253): logged in
+May/20/2022 14:43:48 hotspot,info,debug ->: user (10.20.30.253): logged out: host removed: limiting addresses per mac
+May/20/2022 14:43:48 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:43:48 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:48:35 hotspot,info,debug ->: user (10.20.30.254): logged out: admin reboot
+May/20/2022 14:48:36 hotspot,info,debug ->: user (10.20.30.254): trying to log in by mac-cookie
+May/20/2022 14:52:26 hotspot,info,debug ->: bx7 (10.20.30.254): trying to log in by http-chap
+May/20/2022 14:52:26 hotspot,account,info,debug ->: bx7 (10.20.30.254): logged in
+May/20/2022 14:55:07 hotspot,info,debug ->: bx7 (10.20.30.254): logged out: admin reset
+May/20/2022 14:55:28 hotspot,info,debug ->: user (10.20.30.254): trying to log in by http-chap
+May/20/2022 14:55:28 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:55:32 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:56:03 hotspot,info,debug ->: user (10.20.30.254): trying to log in by http-chap
+May/20/2022 14:56:05 hotspot,info,debug ->: user (10.20.30.254): login failed: invalid username or password
+May/20/2022 14:56:09 hotspot,info,debug ->: user (10.20.30.254): trying to log in by http-chap
+May/20/2022 14:56:09 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:56:34 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 14:57:28 hotspot,info,debug ->: bx7 (10.20.30.254): trying to log in by http-chap
+May/20/2022 14:57:28 hotspot,account,info,debug ->: bx7 (10.20.30.254): logged in
+May/20/2022 14:57:32 hotspot,info,debug ->: bx7 (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 15:09:09 hotspot,info,debug ->: user (10.20.30.254): trying to log in by http-chap
+May/20/2022 15:09:09 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 14:52:32 hotspot,info,debug ->: user (10.20.30.254): trying to log in by http-chap
+May/20/2022 14:52:32 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 15:21:18 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 15:21:45 hotspot,info,debug ->: user (10.20.30.254): trying to log in by http-chap
+May/20/2022 15:21:45 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 15:21:48 hotspot,info,debug ->: user (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 15:24:32 hotspot,info,debug ->: user (10.20.30.254): trying to log in by http-chap
+May/20/2022 15:24:32 hotspot,account,info,debug ->: user (10.20.30.254): logged in
+May/20/2022 19:15:22 hotspot,info,debug ->: bx7 (10.20.30.254): trying to log in by http-chap
+May/20/2022 19:15:22 hotspot,account,info,debug ->: bx7 (10.20.30.254): logged in
+May/20/2022 19:15:33 hotspot,info,debug ->: bx7 (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 19:29:05 hotspot,info,debug ->: bx7 (10.20.30.254): trying to log in by http-chap
+May/20/2022 19:29:05 hotspot,account,info,debug ->: bx7 (10.20.30.254): logged in
+May/20/2022 19:29:38 hotspot,info,debug ->: bx7 (10.20.30.254): logged out: host removed: limiting addresses per mac
+May/20/2022 19:50:36 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/20/2022 19:50:36 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/20/2022 19:58:34 hotspot,info,debug ->: user (10.20.30.251): trying to log in by http-chap
+May/20/2022 19:58:34 hotspot,account,info,debug ->: user (10.20.30.251): logged in
+May/20/2022 20:07:36 hotspot,info,debug ->: user (10.20.30.251): logged out: lost dhcp lease
+May/20/2022 20:12:07 hotspot,info,debug ->: user (10.20.30.251): trying to log in by http-chap
+May/20/2022 20:12:07 hotspot,account,info,debug ->: user (10.20.30.251): logged in
+May/20/2022 20:14:26 hotspot,info,debug ->: user (10.20.30.251): logged out: keepalive timeout
+May/20/2022 20:26:57 hotspot,info,debug ->: user (10.20.30.252): logged out: lost dhcp lease
+May/20/2022 20:33:08 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/20/2022 20:33:08 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/20/2022 21:01:11 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/20/2022 21:01:11 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/20/2022 21:10:52 hotspot,info,debug ->: user (10.20.30.249): logged out: admin reboot
+May/20/2022 21:10:52 hotspot,info,debug ->: user (10.20.30.252): logged out: admin reboot
+May/20/2022 21:19:29 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/20/2022 21:19:30 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/20/2022 21:22:17 hotspot,info,debug ->: user (10.20.30.249): logged out: keepalive timeout
+May/20/2022 21:22:19 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-pap
+May/20/2022 21:22:19 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/20/2022 21:23:40 hotspot,info,debug ->: user (10.20.30.252): logged out: lost dhcp lease
+May/20/2022 21:24:23 hotspot,info,debug ->: user (10.20.30.252): login failed: no chap for http-chap login method
+May/20/2022 21:24:39 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/20/2022 21:24:39 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/21/2022 10:00:19 hotspot,info,debug ->: bx7 (10.20.30.252): trying to log in by http-chap
+May/21/2022 10:00:20 hotspot,info,debug ->: bx7 (10.20.30.252): login failed: no chap for http-chap login method
+May/21/2022 10:00:21 hotspot,info,debug ->: bx7 (10.20.30.252): login failed: invalid username or password
+May/21/2022 10:00:29 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 10:00:29 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/21/2022 10:14:13 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/21/2022 10:14:13 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/21/2022 10:16:39 hotspot,info,debug ->: user (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 10:16:59 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 10:16:59 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/21/2022 10:21:15 hotspot,info,debug ->: user (10.20.30.249): logged out: keepalive timeout
+May/21/2022 10:21:31 hotspot,info,debug ->: user (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 10:21:41 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 10:21:41 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/21/2022 10:22:03 hotspot,info,debug ->: user (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 10:22:50 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/21/2022 10:22:50 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.248): trying to log in by mac-cookie
+May/21/2022 10:23:06 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.248): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.249): trying to log in by mac-cookie
+May/21/2022 10:23:06 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.248): trying to log in by mac-cookie
+May/21/2022 10:23:06 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.248): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.249): trying to log in by mac-cookie
+May/21/2022 10:23:06 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.248): trying to log in by mac-cookie
+May/21/2022 10:23:06 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.248): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:06 hotspot,info,debug ->: user (10.20.30.249): trying to log in by mac-cookie
+May/21/2022 10:23:06 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/21/2022 10:23:07 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:07 hotspot,info,debug ->: user (10.20.30.248): trying to log in by mac-cookie
+May/21/2022 10:23:07 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/21/2022 10:23:07 hotspot,info,debug ->: user (10.20.30.248): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:07 hotspot,info,debug ->: user (10.20.30.249): trying to log in by mac-cookie
+May/21/2022 10:23:07 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/21/2022 10:23:08 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:08 hotspot,info,debug ->: user (10.20.30.248): trying to log in by mac-cookie
+May/21/2022 10:23:08 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/21/2022 10:23:08 hotspot,info,debug ->: user (10.20.30.248): logged out: host removed: limiting addresses per mac
+May/21/2022 10:23:08 hotspot,info,debug ->: user (10.20.30.249): trying to log in by mac-cookie
+May/21/2022 10:23:08 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/21/2022 10:24:40 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 10:24:40 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/21/2022 10:25:06 hotspot,info,debug ->: user (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 10:25:14 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 10:25:14 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/21/2022 10:27:07 hotspot,info,debug ->: user (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 10:27:22 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 10:27:22 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/21/2022 10:28:59 hotspot,info,debug ->: user (10.20.30.249): logged out: keepalive timeout
+May/21/2022 10:31:48 hotspot,info,debug ->: user (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 10:44:14 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 10:44:15 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/21/2022 10:50:22 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/21/2022 10:50:22 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/21/2022 10:50:35 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/21/2022 10:51:59 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/21/2022 10:51:59 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/21/2022 11:10:50 hotspot,info,debug ->: user (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 11:11:04 hotspot,info,debug ->: 12345 (10.20.30.252): trying to log in by http-chap
+May/21/2022 11:11:06 hotspot,info,debug ->: 12345 (10.20.30.252): login failed: invalid username or password
+May/21/2022 11:11:20 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 11:11:20 hotspot,account,info,debug ->: user (10.20.30.252): logged in
+May/21/2022 11:14:00 hotspot,info,debug ->: user (10.20.30.249): logged out: keepalive timeout
+May/21/2022 12:02:54 hotspot,info,debug ->: bx7 (10.20.30.252): trying to log in by http-chap
+May/21/2022 12:02:55 hotspot,info,debug ->: bx7 (10.20.30.252): login failed: no chap for http-chap login method
+May/21/2022 12:02:56 hotspot,info,debug ->: bx7 (10.20.30.252): login failed: invalid username or password
+May/21/2022 12:03:04 hotspot,info,debug ->: bk7 (10.20.30.252): trying to log in by http-chap
+May/21/2022 12:03:05 hotspot,account,info,debug ->: bk7 (10.20.30.252): logged in
+May/21/2022 12:34:41 hotspot,info,debug ->: bk7 (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 12:34:53 hotspot,info,debug ->: bx7 (10.20.30.252): trying to log in by http-chap
+May/21/2022 12:34:53 hotspot,info,debug ->: bx7 (10.20.30.252): login failed: no chap for http-chap login method
+May/21/2022 12:34:55 hotspot,info,debug ->: bx7 (10.20.30.252): login failed: invalid username or password
+May/21/2022 12:35:03 hotspot,info,debug ->: bk7 (10.20.30.252): trying to log in by http-chap
+May/21/2022 12:35:03 hotspot,account,info,debug ->: bk7 (10.20.30.252): logged in
+May/21/2022 12:50:47 hotspot,info,debug ->: bk7 (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 12:51:16 hotspot,info,debug ->: nv6 (10.20.30.252): trying to log in by http-chap
+May/21/2022 12:51:16 hotspot,account,info,debug ->: nv6 (10.20.30.252): logged in
+May/21/2022 16:52:21 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 16:52:22 hotspot,info,debug ->: user (10.20.30.252): login failed: no chap for http-chap login method
+May/21/2022 16:52:23 hotspot,info,debug ->: user (10.20.30.252): login failed: invalid username or password
+May/21/2022 16:52:28 hotspot,info,debug ->: user (10.20.30.252): trying to log in by http-chap
+May/21/2022 16:52:29 hotspot,info,debug ->: user (10.20.30.252): login failed: no chap for http-chap login method
+May/21/2022 16:52:30 hotspot,info,debug ->: user (10.20.30.252): login failed: invalid username or password
+May/21/2022 16:53:03 hotspot,info,debug ->: pr2 (10.20.30.252): trying to log in by http-chap
+May/21/2022 16:53:03 hotspot,account,info,debug ->: pr2 (10.20.30.252): logged in
+May/21/2022 16:56:49 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/21/2022 16:56:51 hotspot,info,debug ->: user (10.20.30.249): login failed: invalid username or password
+May/21/2022 16:59:43 hotspot,info,debug ->: xi2 (10.20.30.249): trying to log in by http-chap
+May/21/2022 16:59:43 hotspot,account,info,debug ->: xi2 (10.20.30.249): logged in
+May/21/2022 17:03:36 hotspot,info,debug ->: xi2 (10.20.30.249): logged out: keepalive timeout
+May/21/2022 17:05:06 hotspot,info,debug ->: pr2 (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 17:06:01 hotspot,info,debug ->: nv6 (10.20.30.252): trying to log in by http-chap
+May/21/2022 17:06:01 hotspot,account,info,debug ->: nv6 (10.20.30.252): logged in
+May/21/2022 17:06:46 hotspot,info,debug ->: nv6 (10.20.30.252): logged out: idle timeout
+May/21/2022 17:07:43 hotspot,info,debug ->: nv6 (10.20.30.252): trying to log in by http-chap
+May/21/2022 17:07:43 hotspot,account,info,debug ->: nv6 (10.20.30.252): logged in
+May/21/2022 17:08:38 hotspot,info,debug ->: nv6 (10.20.30.252): logged out: idle timeout
+May/21/2022 17:11:30 hotspot,info,debug ->: nv6 (10.20.30.252): trying to log in by http-chap
+May/21/2022 17:11:30 hotspot,account,info,debug ->: nv6 (10.20.30.252): logged in
+May/21/2022 17:11:39 hotspot,info,debug ->: nv6 (10.20.30.252): logged out: lost dhcp lease
+May/21/2022 17:11:50 hotspot,info,debug ->: nv6 (10.20.30.252): trying to log in by http-chap
+May/21/2022 17:11:50 hotspot,account,info,debug ->: nv6 (10.20.30.252): logged in
+May/21/2022 17:14:35 hotspot,info,debug ->: nv6 (10.20.30.252): logged out: idle timeout
+May/21/2022 17:41:02 hotspot,info,debug ->: nv6 (10.20.30.252): trying to log in by http-chap
+May/21/2022 17:41:02 hotspot,account,info,debug ->: nv6 (10.20.30.252): logged in
+May/21/2022 23:00:23 hotspot,info,debug ->: xi2 (10.20.30.249): trying to log in by http-chap
+May/21/2022 23:00:24 hotspot,account,info,debug ->: xi2 (10.20.30.249): logged in
+May/21/2022 23:01:21 hotspot,info,debug ->: xi2 (10.20.30.249): logged out: admin reset
+May/21/2022 23:01:21 hotspot,error,info,debug ->: xi2 (10.20.30.249): stop accounting: local user not found
+May/21/2022 23:01:46 hotspot,info,debug ->: xi7 (10.20.30.249): trying to log in by http-chap
+May/21/2022 23:01:48 hotspot,info,debug ->: xi7 (10.20.30.249): login failed: invalid username or password
+May/21/2022 23:02:03 hotspot,info,debug ->: xi2 (10.20.30.249): trying to log in by http-chap
+May/21/2022 23:02:05 hotspot,info,debug ->: xi2 (10.20.30.249): login failed: invalid username or password
+May/21/2022 23:02:15 hotspot,info,debug ->: pr2 (10.20.30.249): trying to log in by http-chap
+May/21/2022 23:02:17 hotspot,info,debug ->: pr2 (10.20.30.249): login failed: invalid username or password
+May/21/2022 23:02:32 hotspot,info,debug ->: pr2 (10.20.30.249): trying to log in by http-chap
+May/21/2022 23:02:34 hotspot,info,debug ->: pr2 (10.20.30.249): login failed: invalid username or password
+May/21/2022 23:04:11 hotspot,info,debug ->: ja4 (10.20.30.249): trying to log in by http-chap
+May/21/2022 23:04:13 hotspot,info,debug ->: ja4 (10.20.30.249): login failed: invalid username or password
+May/21/2022 23:07:11 hotspot,info,debug ->: ja4 (10.20.30.252): trying to log in by http-chap
+May/21/2022 23:07:11 hotspot,account,info,debug ->: ja4 (10.20.30.252): logged in
+May/21/2022 23:08:12 hotspot,info,debug ->: dh9 (10.20.30.249): trying to log in by http-chap
+May/21/2022 23:08:12 hotspot,account,info,debug ->: dh9 (10.20.30.249): logged in
+May/22/2022 09:10:18 hotspot,info,debug ->: dg8 (10.20.30.248): trying to log in by http-chap
+May/22/2022 09:10:18 hotspot,account,info,debug ->: dg8 (10.20.30.248): logged in
+May/22/2022 10:06:30 hotspot,info,debug ->: jk8 (10.20.30.249): trying to log in by http-chap
+May/22/2022 10:06:32 hotspot,info,debug ->: jk8 (10.20.30.249): login failed: invalid username or password
+May/22/2022 11:40:37 hotspot,info,debug ->: dg8 (10.20.30.248): logged out: lost dhcp lease
+May/22/2022 11:40:49 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/22/2022 11:40:50 hotspot,info,debug ->: user (10.20.30.248): login failed: no chap for http-chap login method
+May/22/2022 11:40:51 hotspot,info,debug ->: user (10.20.30.248): login failed: invalid username or password
+May/22/2022 11:41:57 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/22/2022 11:41:57 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/22/2022 11:42:51 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/22/2022 11:43:48 hotspot,info,debug ->: 123 (10.20.30.248): trying to log in by http-chap
+May/22/2022 11:43:48 hotspot,account,info,debug ->: 123 (10.20.30.248): logged in
+May/22/2022 11:44:54 hotspot,info,debug ->: 123 (10.20.30.248): logged out: lost dhcp lease
+May/22/2022 11:44:54 hotspot,error,info,debug ->: 123 (10.20.30.248): stop accounting: local user not found
+May/22/2022 11:45:42 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/22/2022 11:45:42 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/22/2022 11:54:43 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/22/2022 11:54:43 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/22/2022 12:39:55 hotspot,info,debug ->: dg8 (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:39:57 hotspot,info,debug ->: dg8 (10.20.30.247): login failed: invalid MAC address
+May/22/2022 12:40:08 hotspot,info,debug ->: av9 (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:40:08 hotspot,account,info,debug ->: av9 (10.20.30.247): logged in
+May/22/2022 12:42:27 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/22/2022 12:42:43 hotspot,info,debug ->: av9 (10.20.30.248): trying to log in by http-chap
+May/22/2022 12:42:44 hotspot,info,debug ->: av9 (10.20.30.248): login failed: no chap for http-chap login method
+May/22/2022 12:42:45 hotspot,info,debug ->: av9 (10.20.30.248): login failed: invalid MAC address
+May/22/2022 12:43:07 hotspot,info,debug ->: user (10.20.30.249): logged out: admin reset
+May/22/2022 12:43:28 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/22/2022 12:43:28 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/22/2022 12:43:32 hotspot,info,debug ->: av9 (10.20.30.247): logged out: user request
+May/22/2022 12:43:39 hotspot,info,debug ->: user (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:43:41 hotspot,info,debug ->: user (10.20.30.247): login failed: no more sessions are allowed for user
+May/22/2022 12:43:56 hotspot,info,debug ->: user (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:43:58 hotspot,info,debug ->: user (10.20.30.247): login failed: invalid username or password
+May/22/2022 12:44:05 hotspot,info,debug ->: user (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:44:07 hotspot,info,debug ->: user (10.20.30.247): login failed: invalid username or password
+May/22/2022 12:44:29 hotspot,info,debug ->: user (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:44:31 hotspot,info,debug ->: user (10.20.30.247): login failed: invalid username or password
+May/22/2022 12:45:04 hotspot,info,debug ->: user (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:45:06 hotspot,info,debug ->: user (10.20.30.247): login failed: invalid username or password
+May/22/2022 12:45:14 hotspot,info,debug ->: user (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:45:16 hotspot,info,debug ->: user (10.20.30.247): login failed: invalid username or password
+May/22/2022 12:46:14 hotspot,info,debug ->: user (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:46:16 hotspot,info,debug ->: user (10.20.30.247): login failed: invalid username or password
+May/22/2022 12:47:36 hotspot,info,debug ->: uset (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:47:38 hotspot,info,debug ->: uset (10.20.30.247): login failed: invalid username or password
+May/22/2022 12:47:42 hotspot,info,debug ->: user (10.20.30.247): trying to log in by http-chap
+May/22/2022 12:47:42 hotspot,account,info,debug ->: user (10.20.30.247): logged in
+May/22/2022 12:48:21 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/22/2022 12:48:23 hotspot,info,debug ->: user (10.20.30.249): login failed: no more sessions are allowed for user
+May/22/2022 12:49:06 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/22/2022 12:49:06 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/22/2022 13:13:32 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/22/2022 13:13:42 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/22/2022 13:13:42 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/22/2022 13:14:02 hotspot,info,debug ->: user (10.20.30.248): logged out: idle timeout
+May/22/2022 13:15:05 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/22/2022 13:15:05 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/22/2022 13:16:12 hotspot,info,debug ->: user (10.20.30.248): logged out: idle timeout
+May/22/2022 13:17:28 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/22/2022 13:17:28 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/22/2022 13:39:50 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/22/2022 13:40:12 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/22/2022 13:40:12 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/22/2022 13:49:03 hotspot,info,debug ->: user (10.20.30.249): logged out: lost dhcp lease
+May/23/2022 18:24:24 hotspot,info,debug ->: if6 (10.20.30.248): trying to log in by http-chap
+May/23/2022 18:24:24 hotspot,account,info,debug ->: if6 (10.20.30.248): logged in
+May/23/2022 13:33:56 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/23/2022 13:33:57 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/24/2022 08:42:07 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/24/2022 08:50:56 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/24/2022 08:50:57 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/24/2022 09:08:52 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/24/2022 09:08:52 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/24/2022 09:50:43 hotspot,info,debug ->: user (10.20.30.249): logged out: lost dhcp lease
+May/24/2022 09:54:22 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/24/2022 09:54:22 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/24/2022 09:56:36 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/24/2022 09:57:19 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/24/2022 09:57:19 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/24/2022 10:54:07 hotspot,info,debug ->: user (10.20.30.249): logged out: lost dhcp lease
+May/24/2022 11:30:33 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/24/2022 12:28:16 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/24/2022 12:28:16 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/24/2022 12:30:15 hotspot,info,debug ->: user (10.20.30.246): trying to log in by http-chap
+May/24/2022 12:30:15 hotspot,account,info,debug ->: user (10.20.30.246): logged in
+May/24/2022 13:01:26 hotspot,info,debug ->: vx4 (10.20.30.244): trying to log in by http-chap
+May/24/2022 13:01:26 hotspot,account,info,debug ->: vx4 (10.20.30.244): logged in
+May/24/2022 13:59:12 hotspot,info,debug ->: user (10.20.30.246): logged out: lost dhcp lease
+May/24/2022 14:15:23 hotspot,info,debug ->: vx4 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:15:25 hotspot,info,debug ->: vx4 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:15:38 hotspot,info,debug ->: Vx4 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:15:40 hotspot,info,debug ->: Vx4 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:15:46 hotspot,info,debug ->: VX4 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:15:48 hotspot,info,debug ->: VX4 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:16:05 hotspot,info,debug ->: vx4 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:16:07 hotspot,info,debug ->: vx4 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:16:21 hotspot,info,debug ->: vx8 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:16:23 hotspot,info,debug ->: vx8 (10.20.30.243): login failed: no chap for http-chap login method
+May/24/2022 14:16:23 hotspot,info,debug ->: vx8 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:16:40 hotspot,info,debug ->: vx8 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:16:42 hotspot,info,debug ->: vx8 (10.20.30.243): login failed: no chap for http-chap login method
+May/24/2022 14:16:42 hotspot,info,debug ->: vx8 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:16:44 hotspot,info,debug ->: vx8 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:16:46 hotspot,info,debug ->: vx8 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:17:01 hotspot,info,debug ->: Vx8 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:17:03 hotspot,info,debug ->: Vx8 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:17:16 hotspot,info,debug ->: vx4 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:17:17 hotspot,info,debug ->: vx4 (10.20.30.243): login failed: no chap for http-chap login method
+May/24/2022 14:17:18 hotspot,info,debug ->: vx4 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:17:42 hotspot,info,debug ->: vx8 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:17:44 hotspot,info,debug ->: vx8 (10.20.30.243): login failed: invalid username or password
+May/24/2022 14:18:38 hotspot,info,debug ->: vx8 (10.20.30.243): trying to log in by http-chap
+May/24/2022 14:18:40 hotspot,info,debug ->: vx8 (10.20.30.243): login failed: invalid username or password
+May/24/2022 16:33:57 hotspot,info,debug ->: vx4 (10.20.30.244): logged out: lost dhcp lease
+May/24/2022 17:07:20 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/24/2022 18:08:37 hotspot,info,debug ->: user (10.20.30.246): trying to log in by http-chap
+May/24/2022 18:08:37 hotspot,account,info,debug ->: user (10.20.30.246): logged in
+May/24/2022 18:09:28 hotspot,info,debug ->: user (10.20.30.246): logged out: host removed: limiting addresses per mac
+May/24/2022 18:17:56 hotspot,info,debug ->: user (10.20.30.246): trying to log in by http-chap
+May/24/2022 18:17:56 hotspot,account,info,debug ->: user (10.20.30.246): logged in
+May/24/2022 19:06:15 hotspot,info,debug ->: user (10.20.30.246): logged out: lost dhcp lease
+May/24/2022 20:17:30 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/24/2022 20:17:30 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/24/2022 20:18:02 hotspot,info,debug ->: user (10.20.30.246): trying to log in by http-chap
+May/24/2022 20:18:02 hotspot,account,info,debug ->: user (10.20.30.246): logged in
+May/24/2022 20:49:37 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/24/2022 20:49:37 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/24/2022 21:45:51 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/24/2022 21:47:27 hotspot,info,debug ->: user (10.20.30.246): logged out: lost dhcp lease
+May/24/2022 21:56:05 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/24/2022 21:56:05 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/24/2022 23:26:00 hotspot,info,debug ->: user (10.20.30.249): logged out: lost dhcp lease
+May/25/2022 03:29:14 hotspot,info,debug ->: vc8 (10.20.30.244): trying to log in by http-chap
+May/25/2022 03:29:15 hotspot,info,debug ->: vc8 (10.20.30.244): login failed: no chap for http-chap login method
+May/25/2022 03:29:16 hotspot,info,debug ->: vc8 (10.20.30.244): login failed: invalid username or password
+May/25/2022 10:17:28 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/25/2022 12:09:34 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/25/2022 12:09:35 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/25/2022 12:18:31 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: keepalive timeout
+May/25/2022 12:33:15 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/25/2022 12:33:15 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/25/2022 12:39:43 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: keepalive timeout
+May/25/2022 13:03:58 hotspot,info,debug ->: xv8 (10.20.30.244): trying to log in by http-chap
+May/25/2022 13:04:00 hotspot,info,debug ->: xv8 (10.20.30.244): login failed: no chap for http-chap login method
+May/25/2022 13:04:00 hotspot,info,debug ->: xv8 (10.20.30.244): login failed: invalid username or password
+May/25/2022 13:04:01 hotspot,info,debug ->: xv8 (10.20.30.244): trying to log in by http-chap
+May/25/2022 13:04:01 hotspot,info,debug ->: xv8 (10.20.30.244): login failed: no chap for http-chap login method
+May/25/2022 13:04:03 hotspot,info,debug ->: xv8 (10.20.30.244): login failed: invalid username or password
+May/25/2022 13:04:07 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/25/2022 13:04:07 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/25/2022 14:16:58 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/25/2022 14:16:58 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/25/2022 14:18:01 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/25/2022 14:18:01 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/25/2022 14:19:21 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/25/2022 14:20:07 hotspot,info,debug ->: user (10.20.30.246): trying to log in by http-chap
+May/25/2022 14:20:07 hotspot,account,info,debug ->: user (10.20.30.246): logged in
+May/25/2022 14:23:13 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: keepalive timeout
+May/25/2022 14:35:09 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/25/2022 14:35:09 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/25/2022 14:38:04 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/25/2022 14:38:15 hotspot,info,debug ->: nugi (10.20.30.248): trying to log in by http-chap
+May/25/2022 14:38:15 hotspot,account,info,debug ->: nugi (10.20.30.248): logged in
+May/25/2022 14:38:39 hotspot,info,debug ->: nugi (10.20.30.248): logged out: lost dhcp lease
+May/25/2022 14:38:46 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/25/2022 14:38:46 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/25/2022 15:26:13 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: keepalive timeout
+May/25/2022 15:31:01 hotspot,info,debug ->: user (10.20.30.246): logged out: lost dhcp lease
+May/25/2022 15:38:46 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/25/2022 16:30:06 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/25/2022 16:30:06 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/25/2022 16:30:39 hotspot,info,debug ->: user (10.20.30.240): trying to log in by http-chap
+May/25/2022 16:30:39 hotspot,account,info,debug ->: user (10.20.30.240): logged in
+May/25/2022 16:38:21 hotspot,info,debug ->: user (10.20.30.240): logged out: lost dhcp lease
+May/25/2022 16:45:40 hotspot,info,debug ->: user (10.20.30.240): trying to log in by http-chap
+May/25/2022 16:45:40 hotspot,account,info,debug ->: user (10.20.30.240): logged in
+May/25/2022 16:47:18 hotspot,info,debug ->: user (10.20.30.240): logged out: lost dhcp lease
+May/25/2022 16:48:11 hotspot,info,debug ->: user (10.20.30.240): trying to log in by http-chap
+May/25/2022 16:48:11 hotspot,account,info,debug ->: user (10.20.30.240): logged in
+May/25/2022 17:48:08 hotspot,info,debug ->: user (10.20.30.240): logged out: lost dhcp lease
+May/25/2022 18:54:30 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/25/2022 22:37:25 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/25/2022 22:37:25 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/25/2022 23:17:11 hotspot,info,debug ->: nugi (10.20.30.238): trying to log in by http-chap
+May/25/2022 23:17:11 hotspot,account,info,debug ->: nugi (10.20.30.238): logged in
+May/25/2022 23:24:10 hotspot,info,debug ->: user (10.20.30.239): trying to log in by http-chap
+May/25/2022 23:24:10 hotspot,account,info,debug ->: user (10.20.30.239): logged in
+May/26/2022 02:50:19 hotspot,info,debug ->: nugi (10.20.30.244): trying to log in by http-chap
+May/26/2022 02:50:21 hotspot,info,debug ->: nugi (10.20.30.244): login failed: no more sessions are allowed for user
+May/26/2022 02:50:35 hotspot,info,debug ->: vx4 (10.20.30.244): trying to log in by http-chap
+May/26/2022 02:50:37 hotspot,info,debug ->: vx4 (10.20.30.244): login failed: no chap for http-chap login method
+May/26/2022 02:50:37 hotspot,info,debug ->: vx4 (10.20.30.244): login failed: invalid username or password
+May/26/2022 02:50:45 hotspot,info,debug ->: xv4 (10.20.30.244): trying to log in by http-chap
+May/26/2022 02:50:46 hotspot,info,debug ->: xv4 (10.20.30.244): login failed: no chap for http-chap login method
+May/26/2022 02:50:47 hotspot,info,debug ->: xv4 (10.20.30.244): login failed: invalid username or password
+May/26/2022 02:50:47 hotspot,info,debug ->: xv4 (10.20.30.244): trying to log in by http-chap
+May/26/2022 02:50:49 hotspot,info,debug ->: xv4 (10.20.30.244): login failed: invalid username or password
+May/26/2022 02:50:58 hotspot,info,debug ->: xv8 (10.20.30.244): trying to log in by http-chap
+May/26/2022 02:50:59 hotspot,info,debug ->: xv8 (10.20.30.244): login failed: no chap for http-chap login method
+May/26/2022 02:51:00 hotspot,info,debug ->: xv8 (10.20.30.244): login failed: invalid username or password
+May/26/2022 02:51:06 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/26/2022 02:51:06 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/26/2022 03:50:14 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: lost dhcp lease
+May/26/2022 07:49:24 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/26/2022 08:01:34 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/26/2022 08:01:35 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/26/2022 08:46:57 hotspot,info,debug ->: nugi (10.20.30.238): logged out: lost dhcp lease
+May/26/2022 10:02:00 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: lost dhcp lease
+May/26/2022 12:36:34 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/26/2022 12:36:34 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/26/2022 15:01:15 hotspot,info,debug ->: vx4 (10.20.30.244): trying to log in by http-chap
+May/26/2022 15:01:17 hotspot,info,debug ->: vx4 (10.20.30.244): login failed: invalid username or password
+May/26/2022 15:01:24 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/26/2022 15:01:24 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/26/2022 16:04:12 hotspot,info,debug ->: nugi (10.20.30.238): trying to log in by http-chap
+May/26/2022 16:04:12 hotspot,account,info,debug ->: nugi (10.20.30.238): logged in
+May/26/2022 16:04:30 hotspot,info,debug ->: nugi (10.20.30.238): logged out: user request
+May/26/2022 16:04:44 hotspot,info,debug ->: Nugii (10.20.30.238): trying to log in by http-chap
+May/26/2022 16:04:46 hotspot,info,debug ->: Nugii (10.20.30.238): login failed: invalid username or password
+May/26/2022 16:04:49 hotspot,info,debug ->: Nugii (10.20.30.238): trying to log in by http-chap
+May/26/2022 16:04:51 hotspot,info,debug ->: Nugii (10.20.30.238): login failed: invalid username or password
+May/26/2022 16:04:54 hotspot,info,debug ->: Nugii (10.20.30.238): trying to log in by http-chap
+May/26/2022 16:04:56 hotspot,info,debug ->: Nugii (10.20.30.238): login failed: invalid username or password
+May/26/2022 16:13:37 hotspot,info,debug ->: Nugii (10.20.30.238): trying to log in by http-chap
+May/26/2022 16:13:39 hotspot,info,debug ->: Nugii (10.20.30.238): login failed: invalid username or password
+May/26/2022 16:13:51 hotspot,info,debug ->: Nugie (10.20.30.238): trying to log in by http-chap
+May/26/2022 16:13:53 hotspot,info,debug ->: Nugie (10.20.30.238): login failed: invalid username or password
+May/26/2022 16:14:03 hotspot,info,debug ->: Nugii  (10.20.30.238): trying to log in by http-chap
+May/26/2022 16:14:05 hotspot,info,debug ->: Nugii  (10.20.30.238): login failed: invalid username or password
+May/26/2022 16:14:30 hotspot,info,debug ->: Nugii  (10.20.30.238): trying to log in by http-chap
+May/26/2022 16:14:32 hotspot,info,debug ->: Nugii  (10.20.30.238): login failed: invalid username or password
+May/26/2022 17:30:06 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/26/2022 18:31:53 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: lost dhcp lease
+May/26/2022 21:22:10 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/26/2022 21:22:10 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/26/2022 21:22:39 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/26/2022 21:22:39 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/26/2022 21:23:52 hotspot,info,debug ->: nugi (10.20.30.238): trying to log in by http-chap
+May/26/2022 21:23:52 hotspot,account,info,debug ->: nugi (10.20.30.238): logged in
+May/26/2022 22:25:45 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: lost dhcp lease
+May/26/2022 22:54:57 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/26/2022 22:54:57 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/26/2022 23:29:57 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/26/2022 23:29:57 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/27/2022 06:09:39 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: lost dhcp lease
+May/27/2022 08:12:06 hotspot,info,debug ->: nugi (10.20.30.238): logged out: lost dhcp lease
+May/27/2022 08:24:39 hotspot,info,debug ->: user (10.20.30.249): logged out: lost dhcp lease
+May/27/2022 08:27:30 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/27/2022 12:54:02 hotspot,info,debug ->: vx8 (10.20.30.244): trying to log in by http-chap
+May/27/2022 12:54:02 hotspot,account,info,debug ->: vx8 (10.20.30.244): logged in
+May/27/2022 14:53:58 hotspot,info,debug ->: vx8 (10.20.30.244): logged out: lost dhcp lease
+May/27/2022 15:23:18 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/27/2022 15:23:18 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/27/2022 15:58:50 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/27/2022 15:58:50 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/27/2022 15:59:04 hotspot,info,debug ->: user (10.20.30.249): logged out: host removed: limiting addresses per mac
+May/27/2022 15:59:34 hotspot,info,debug ->: user (10.20.30.249): trying to log in by http-chap
+May/27/2022 15:59:34 hotspot,account,info,debug ->: user (10.20.30.249): logged in
+May/27/2022 16:08:02 hotspot,info,debug ->: user (10.20.30.233): trying to log in by http-chap
+May/27/2022 16:08:02 hotspot,account,info,debug ->: user (10.20.30.233): logged in
+May/27/2022 16:35:05 hotspot,info,debug ->: user (10.20.30.233): logged out: lost dhcp lease
+May/27/2022 16:35:09 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/27/2022 16:35:19 hotspot,info,debug ->: user (10.20.30.232): trying to log in by http-chap
+May/27/2022 16:35:19 hotspot,account,info,debug ->: user (10.20.30.232): logged in
+May/27/2022 16:45:49 hotspot,info,debug ->: user (10.20.30.232): logged out: lost dhcp lease
+May/27/2022 16:45:57 hotspot,info,debug ->: ch9 (10.20.30.232): trying to log in by http-chap
+May/27/2022 16:45:57 hotspot,account,info,debug ->: ch9 (10.20.30.232): logged in
+May/27/2022 17:03:33 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/27/2022 17:03:33 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/27/2022 17:40:43 hotspot,info,debug ->: user (10.20.30.249): logged out: lost dhcp lease
+May/27/2022 17:55:14 hotspot,info,debug ->: ch9 (10.20.30.232): logged out: lost dhcp lease
+May/27/2022 18:12:37 hotspot,info,debug ->: user (10.20.30.248): logged out: lost dhcp lease
+May/27/2022 23:35:18 hotspot,info,debug ->: user (10.20.30.230): trying to log in by http-chap
+May/27/2022 23:35:18 hotspot,account,info,debug ->: user (10.20.30.230): logged in
+May/27/2022 23:36:15 hotspot,info,debug ->: user (10.20.30.248): trying to log in by http-chap
+May/27/2022 23:36:15 hotspot,account,info,debug ->: user (10.20.30.248): logged in
+May/27/2022 23:37:04 hotspot,info,debug ->: user (10.20.30.230): logged out: host removed: limiting addresses per mac
+May/27/2022 23:38:21 hotspot,info,debug ->: user (10.20.30.230): trying to log in by http-chap
+May/27/2022 23:38:21 hotspot,account,info,debug ->: user (10.20.30.230): logged in
