@@ -1,5 +1,5 @@
-# Jaringan-Mikrotik
-# Mikrotik rb941 2nd hap lite dan TP link wr840n
+# Jaringan-Mikrotik rb941 2nd hap lite dan TP link wr840n
+
 ![Screenshot_1](https://user-images.githubusercontent.com/47480429/170764248-79f1319a-3f5e-4038-a141-3c0d9eca66d2.jpg)
 ![Screenshot_4](https://user-images.githubusercontent.com/47480429/170764325-e9ba29c1-9af5-418c-a506-8b4bbf0d97f8.jpg)
 ![Screenshot_9](https://user-images.githubusercontent.com/47480429/170764469-687b83b2-ee0f-40da-a775-9a744b14f85a.jpg)
