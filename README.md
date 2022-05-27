@@ -5,6 +5,6 @@ Mikrotik rb941 2nd hap lite dan TP link wr840n
 ![Screenshot_9](https://user-images.githubusercontent.com/47480429/170764469-687b83b2-ee0f-40da-a775-9a744b14f85a.jpg)
 ![Screenshot_6](https://user-images.githubusercontent.com/47480429/170764878-c91c1a31-daec-4238-93ae-d621df8a3723.jpg)
 ![WhatsApp Image 2022-05-28 at 00 53 55](https://user-images.githubusercontent.com/47480429/170764911-4e74308e-de37-4ae0-9fcb-a2921f38e828.jpeg)
-https://user-images.githubusercontent.com/47480429/170765201-a78db70c-122e-4e8d-aebd-0000e37d2377.MP4
+
 
 
